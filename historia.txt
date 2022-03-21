@@ -17,4 +17,3 @@ thftjh
 
 ////////////////////////////////6541548674264
 cabecera
-esto se hizo desde la rama feature_01 para la rama feature_01 unicamente

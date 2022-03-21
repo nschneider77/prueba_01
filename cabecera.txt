@@ -6,8 +6,3 @@ fsfsdfs dfs ge5y 5cf5 u6
 66666666666666666666666666666666
 444444444444444444444444444444444444
 cabecera
-
-
-
-
-esto se hizo desde la rama feature_01 para la rama feature_01 unicamente
